@@ -1,5 +1,6 @@
 import os
 
+# Plant voice: the neglected houseplant brags about thriving, then returns the favour.
 LINE = "Out of office. I haven't been watered since March and I'm thriving. Your email will be ignored in the same spirit."
 
 
